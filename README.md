@@ -12,11 +12,13 @@
 
 > pip3 install -r requirements.txt
 >
-> cd src
+> cd src/
 >
 > python3 test.py
 
 input.test.txt 是测试输入（58同城招聘信息，测试一下即可）
 
 input.template.txt 是输入模板（有些字段需要分析浏览器响应才可以得到—不推荐手动复制，建议手动复制得不到的信息可以直接不更改，使用默认的即可）
+
+**也可选择快速预览输出结果：[logging](logging.txt)**
 
